@@ -10,3 +10,17 @@ The big challenge to using this data (from hundreds of thousands of papers) is t
 
 ## Our Purpose:
 The purpose of this project is to develop a tool that can identify, standardize, and export complex tabular data from scientific papers, starting with PDF and XML formats. This will enable the efficient transfer of knowledge to other tools and applications.
+
+# Participants:
+
+### Dr Gitanjali (Gita) Yadav
+DBT-Cambridge Lecturer at Department of Plant Sciences, University of Cambridge
+https://www.csap.cam.ac.uk/network/gitanjali-yadav/
+Staff Scientist at National Institute of Plant Genome Research (NIPGR)
+https://nipgr.ac.in/research/dr_gyadav.php
+Citations:
+https://scholar.google.com/citations?hl=en&user=Pw31XWcAAAAJ&view_op=list_works&sortby=pubdate
+
+### Emanuel Faria, Phytomedicine Detective
+Founder/Formulator at Verriclear Natural Skin Essentials Ltd.
+https://www.verriclear.com
