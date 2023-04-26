@@ -24,4 +24,5 @@ The purpose of this project is to develop a tool that can identify, standardize,
 ### Emanuel Faria
 - Phytomedicine Detective
 - Founder/Formulator at Verriclear Natural Skin Essentials Ltd.
+- Verriclear participates in non-profit science to create skincae products 
 - 	https://www.verriclear.com
