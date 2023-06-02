@@ -2,15 +2,16 @@
 
 ## Input from PDF
 
-Table 1
+### Table 1
+
 ![image](https://github.com/Linereck/tabletamer/assets/131935651/5f0548a4-cdb9-43c7-b525-480f05a1a3e4)
 
-Table 2
+### Table 2
 ![image](https://github.com/Linereck/tabletamer/assets/131935651/94c1a726-c384-4b68-af7a-177ed15e1881)
 
 
 
-## Table 1 - The json Brokendown
+## Table 1 - Json
 
 ```json
 {
