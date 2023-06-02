@@ -205,3 +205,11 @@ Notes:
 - aData from Wang et al. (20). 
 - bData from Liu et al. (18). 
 - cFrom Liu and Ho (2).
+
+# Conclusion
+
+In conclusion, the implementation of a PDF service that leverages OpenAI's embedding service for search, and subsequently tokenizes PDF documents into a JSON format, presents a highly effective method for extracting and transforming table data from PDFs. This approach eliminates the need for additional tools or software, thereby simplifying the process and minimizing potential technical difficulties.
+
+The procedure involves uploading the PDF to the service, which then employs OpenAI's embedding service to facilitate search within the document. The document is parsed and converted into a JSON format, which is easily navigable and can be queried using ChatGPT to extract specific information, such as table data. The extracted data can then be transformed into a preferred format, such as Markdown, for easy viewing and interpretation.
+
+This method has proven to be accurate and efficient in the extraction and transformation of table data from PDFs. It offers a promising solution for individuals and organizations seeking to efficiently extract and utilize data from PDF documents, without the need for specialized tools or software. Future enhancements may focus on refining the process to further improve its efficiency and accuracy, and expanding its capabilities to handle more complex data structures and formats.
