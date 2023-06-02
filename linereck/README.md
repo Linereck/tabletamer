@@ -48,9 +48,7 @@ Sure, here is your data converted to a markdown table:
 | Dihydroactinolide | 1531 | 1532 | 7.8 |
 | δ-Cadinol | 1640 | 1640 | 0.5 |
 | Phytol | 2119 | 1949 | 0.1 |
-| Total identified |  |  | 99.0
-
- |
+| Total identified |  |  | 99.0|
 | Monoterpenoids |  |  | 58.5 |
 | Sesquiterpenoids |  |  | 28.5 |
 | Other |  |  | 12.0 |
